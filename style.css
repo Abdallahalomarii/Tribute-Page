@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #edede9;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+#main {
+    background-color: #73706d;
+    padding: 15px;
+    margin: 33px 0px;
+    border-radius: 10px;
+    color: #f5efe8
+}
+
+#title {
+    font-size: 40px;
+    margin-top: 1rem;
+    margin-bottom: 1.8rem;
+}
+
+#title-description {
+    font-size: 22px;
+    padding: 3px;
+    font-style: italic;
+}
+
+#img-div {
+    background-color: #edede9;
+    margin: 0.4rem;
+    padding: 0.4rem;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    width: 1080px;
+    height: auto;
+    margin: 2rem auto;
+
+}
+
+#img-caption {
+    color: #111;
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 1rem;
+}
+
+#tribute-info {
+    display: block;
+    padding: 1rem;
+    line-height: 3rem;
+}
+
+#tribute-info h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 3rem;
+}
+
+#tribute-info ul {
+    font-size: 20px;
+    text-align: left;
+    margin: 0 auto 20px auto;
+    max-width: 580px;
+}
+
+#tribute-info ul li strong {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+#award {
+    display: block;
+    max-width: 580px;
+    font-style: italic;
+    margin: 3rem auto;
+    text-align: left;
+}
+
+.about {
+    display: block;
+    margin: 2rem auto;
+    font-size: 30px;
+    font-weight: 500;
+    word-spacing: 2px;
+}
+
+#tribute-link {
+    color: #212529;
+    text-decoration: underline;
+}
